@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8936'
     url: http://www.gutenberg.org/2009/agents/8936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19878#The-Passaic-Flood-of-1903
 gutenberg_issued: '2006-11-20'
 gutenberg_type: Text
 identifiers:
